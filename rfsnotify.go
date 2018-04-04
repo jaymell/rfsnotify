@@ -2,7 +2,7 @@
 package rfsnotify
 
 import (
-	"gopkg.in/fsnotify.v1"
+	"github.com/radu-munteanu/fsnotify"
 
 	"errors"
 	"os"
